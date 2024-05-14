@@ -1,1 +1,3 @@
 # Causal-Modelling
+
+Causal modeling between Apnea-Hypopnea Index (AHI) and arterial oxygen saturation (SaO2) explores the intricate relationship between sleep-disordered breathing and oxygen levels in the bloodstream. AHI measures the severity of sleep apnea by tallying the number of apneas (pauses in breathing) and hypopneas (shallow breathing episodes) per hour of sleep, while SaO2 indicates the amount of oxygen carried by hemoglobin in the blood. Understanding the causal pathways between these variables can deduce how sleep disturbances affect oxygenation and vice versa, offering insights into the mechanisms underlying sleep-related health conditions like obstructive sleep apnea and their physiological impacts.
